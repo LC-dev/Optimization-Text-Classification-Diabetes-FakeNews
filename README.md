@@ -47,12 +47,12 @@ Completed 🙌
 
 ## Results 📈
 
-* Gradient descent
+* Gradient descent:
   * Slow convergence on non-normalized data
   * Significantly faster convergence using mini-batch SGD (B=8, epochs=25) than GD (epochs=1350), normalized data: 75% accuracy
   * Negligeable effect of momenteum GD on normalized data
 
-* Text classification
+* Text classification:
   * 76.5% accuracy
 
 ## Setup 👩‍💻
