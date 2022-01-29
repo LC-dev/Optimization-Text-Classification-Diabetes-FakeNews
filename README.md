@@ -21,6 +21,7 @@ Completed 🙌
 <a name="cred"></a>
 
 ## Project Objectives ✅ 
+Machine learning models that predict whether given news is fake, and if a person is diabetic:
 
 * Gain insight into the optimization process of gradient based methods by implementing variations of gradient descent and analyzing their impact on convergence speed, using Logisitc Regression.
 * Explore text-specific pre-processing techniques and use Logistic Regression for binary classification 
